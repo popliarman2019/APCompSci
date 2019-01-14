@@ -1,0 +1,53 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50233:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Palindrome' a palindrome?
+false
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50238:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Civic' a palindrome?
+true
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50242:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Radar' a palindrome?
+true
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50245:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Level' a palindrome?
+true
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50249:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Eva, can I stab bats in a cave?' a palindrome?
+true
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50253:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'A man, a plan, a canal, Panama' a palindrome?
+true
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50263:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Mr. Owl ate my metal worm' a palindrome?
+true
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50266:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Never odd or even' a palindrome?
+true
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50269:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Is 'Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod.' a palindrome?
+true
+
+Process finished with exit code 0
