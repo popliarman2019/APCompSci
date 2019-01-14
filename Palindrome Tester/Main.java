@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        String phrase = "A man, a plan, a canal, Panama"; // insert potential palindrome here
+        String phrase = "Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod."; // insert potential palindrome here
         boolean palindrome = false, spaces;
         int len = phrase.length();
         int subtracter = len - 1;
@@ -21,6 +21,10 @@ public class Main {
                     break;
                 case ":":
                     break;
+                case "?":
+                    break;
+                case ".":
+                    break;
                 default:
                     forwards = forwards + character;
             }
@@ -35,6 +39,10 @@ public class Main {
                 case ",":
                     break;
                 case ":":
+                    break;
+                case "?":
+                    break;
+                case ".":
                     break;
                 default:
                     backwards = backwards + character;
