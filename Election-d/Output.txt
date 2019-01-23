@@ -1,0 +1,12 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=62577:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Election'd/out/production/Election'd Main
+Instances of voter fraud: 15616, 17630, 29852, 34557, 
+Your new President: Mordy Golding
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 5
+	at Main.main(Main.java:34)
+abstain 0
+Mordy Golding 71
+Shira Gotshalk 61
+Stephanie Evans 57
+Ray Villalobos 60
+
+Process finished with exit code 1
