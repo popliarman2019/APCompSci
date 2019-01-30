@@ -1,0 +1,22 @@
+Information:java: Errors occurred while compiling module 'Election'd'
+Information:javac 10.0.2 was used to compile java sources
+Information:1/29/19, 9:29 PM - Compilation completed with 18 errors and 0 warnings in 1 s 375 ms
+/Users/armanpopli/IdeaProjects/Election'd/src/Main.java
+Error:(67, 19) java: class, interface, or enum expected
+Error:(68, 22) java: class, interface, or enum expected
+Error:(68, 47) java: class, interface, or enum expected
+Error:(72, 21) java: class, interface, or enum expected
+Error:(73, 17) java: class, interface, or enum expected
+Error:(75, 21) java: class, interface, or enum expected
+Error:(76, 17) java: class, interface, or enum expected
+Error:(78, 21) java: class, interface, or enum expected
+Error:(79, 17) java: class, interface, or enum expected
+Error:(81, 21) java: class, interface, or enum expected
+Error:(82, 17) java: class, interface, or enum expected
+Error:(84, 21) java: class, interface, or enum expected
+Error:(85, 13) java: class, interface, or enum expected
+Error:(89, 9) java: class, interface, or enum expected
+Error:(92, 9) java: class, interface, or enum expected
+Error:(95, 9) java: class, interface, or enum expected
+Error:(98, 9) java: class, interface, or enum expected
+Error:(101, 9) java: class, interface, or enum expected
