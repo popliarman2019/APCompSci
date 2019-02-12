@@ -1,0 +1,21 @@
+Information:java: Errors occurred while compiling module 'Number'd'
+Information:javac 10.0.2 was used to compile java sources
+Information:2/11/19, 11:09 PM - Compilation completed with 17 errors and 0 warnings in 1 s 288 ms
+/Users/armanpopli/IdeaProjects/Number'd/src/Main.java
+Error:(51, 19) java: class, interface, or enum expected
+Error:(53, 9) java: class, interface, or enum expected
+Error:(54, 9) java: class, interface, or enum expected
+Error:(55, 9) java: class, interface, or enum expected
+Error:(55, 46) java: class, interface, or enum expected
+Error:(55, 54) java: class, interface, or enum expected
+Error:(57, 13) java: class, interface, or enum expected
+Error:(59, 13) java: class, interface, or enum expected
+Error:(62, 17) java: class, interface, or enum expected
+Error:(63, 13) java: class, interface, or enum expected
+Error:(67, 5) java: class, interface, or enum expected
+Error:(69, 19) java: class, interface, or enum expected
+Error:(70, 36) java: class, interface, or enum expected
+Error:(70, 42) java: class, interface, or enum expected
+Error:(72, 9) java: class, interface, or enum expected
+Error:(74, 9) java: class, interface, or enum expected
+Error:(75, 5) java: class, interface, or enum expected
