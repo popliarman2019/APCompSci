@@ -1,0 +1,90 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57145:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/PVP-Battleground/out/production/PVP-Battleground Main
+Player Charactar extended class created.
+
+A fighter named Rethgif has been created.
+Rethgif is a fighter of strength: 42
+Rethgif is a fighter of intelligence: 20
+Rethgif is a fighter of agility: 19
+Rethgif is a fighter of constitution: 0
+Player Charactar extended class created.
+
+A fighter named Catty has been created.
+Catty is a fighter of strength: 42
+Catty is a fighter of intelligence: 22
+Catty is a fighter of agility: 20
+Catty is a fighter of constitution: 0
+Player Charactar extended class created.
+
+A priest named Rhonda has been created.
+Rhonda is a priest of strength: 21
+Rhonda is a priest of intelligence: 32
+Rhonda is a priest of agility: 18
+Player Charactar extended class created.
+
+A priest named Wanda has been created.
+Wanda is a priest of strength: 18
+Wanda is a priest of intelligence: 42
+Wanda is a priest of agility: 21
+Player Charactar extended class created.
+
+A Paladin named Nidalap has been created.
+Nidalap is a Paladin of strength: 16
+Nidalap is a Paladin of intelligence: 30
+Nidalap is a Paladin of agility: 29
+Player Charactar extended class created.
+
+A Paladin named Sammy has been created.
+Sammy is a Paladin of strength: 19
+Sammy is a Paladin of intelligence: 33
+Sammy is a Paladin of agility: 29
+Player Charactar extended class created.
+
+A mage named Egam has been created.
+Egam is a mage of strength: 17
+Egam is a mage of intelligence: 19
+Egam is a mage of agility: 21
+Player Charactar extended class created.
+
+A mage named Sally has been created.
+Sally is a mage of strength: 18
+Sally is a mage of intelligence: 17
+Sally is a mage of agility: 19
+
+There are 8 charactars in this arena.
+8
+Rethgif is a Fighter.
+Rethgif is a fighter of strength: 42
+Rethgif is a fighter of intelligence: 20
+Rethgif is a fighter of agility: 19
+Rethgif is a fighter of constitution: 0
+Catty is a Fighter.
+Catty is a fighter of strength: 42
+Catty is a fighter of intelligence: 22
+Catty is a fighter of agility: 20
+Catty is a fighter of constitution: 0
+Rhonda is a Priest.
+Rhonda is a priest of strength: 21
+Rhonda is a priest of intelligence: 32
+Rhonda is a priest of agility: 18
+Wanda is a Priest.
+Wanda is a priest of strength: 18
+Wanda is a priest of intelligence: 42
+Wanda is a priest of agility: 21
+Nidalap is a Paladin.
+Nidalap is a Paladin of strength: 16
+Nidalap is a Paladin of intelligence: 30
+Nidalap is a Paladin of agility: 29
+Sammy is a Paladin.
+Sammy is a Paladin of strength: 19
+Sammy is a Paladin of intelligence: 33
+Sammy is a Paladin of agility: 29
+Egam is a Mage.
+Egam is a mage of strength: 17
+Egam is a mage of intelligence: 19
+Egam is a mage of agility: 21
+Sally is a Mage.
+Sally is a mage of strength: 18
+Sally is a mage of intelligence: 17
+Sally is a mage of agility: 19
+
+Process finished with exit code 0
