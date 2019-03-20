@@ -12,6 +12,8 @@ public class Priest extends PlayerCharactar {
         strength = 15 + (rand.nextInt(6)+1);
         intelligence = 30 + 2*(rand.nextInt(6)+1);
         agility = 15 + (rand.nextInt(6)+1);
+        hpmax = strength;
+
 
         dispStats();
 

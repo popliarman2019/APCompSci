@@ -12,6 +12,7 @@ public class Mage extends PlayerCharactar {
         strength = 15 + (rand.nextInt(6)+1)/2;
         intelligence = 15 + 2*(rand.nextInt(6)+1);
         agility = 15 + (rand.nextInt(6)+1);
+        hp = strength;
 
         dispStats();
 

@@ -2,9 +2,8 @@ import java.util.Random;
 
 public class Fighter extends PlayerCharactar{
 
-    String name;
 
-    int constitution;
+    private int constitution;
 
 
     public Fighter(String newName) {

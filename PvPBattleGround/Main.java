@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Random;
 
 public class Main {
@@ -21,8 +22,33 @@ public class Main {
         Mage mage1 = new Mage ("Egam");
         Mage mage2 = new Mage ("Sally");
 
+        System.out.println("\nThere are " + PlayerCharactar.count + " charactars in this arena.");
+
 //        PlayerCharactar playerx = new PlayerCharactar("Jonny");
 
-    }
 
+        ArrayList<PlayerCharactar> players = new ArrayList<PlayerCharactar>();
+        players.add(fighter1);
+        players.add(fighter2);
+        players.add(priest1);
+        players.add(priest2);
+        players.add(paladin1);
+        players.add(paladin2);
+        players.add(mage1);
+        players.add(mage2);
+
+        System.out.println(players.size());
+
+
+        for (PlayerCharactar x : players) {
+            if (x instanceof Fighter) {System.out.println(x.name + " is a Fighter."); x.dispStats();}
+            if (x instanceof Priest) {System.out.println(x.name + " is a Priest."); x.dispStats();}
+            if (x instanceof Paladin) {System.out.println(x.name + " is a Paladin."); x.dispStats();}
+            if (x instanceof Mage) {System.out.println(x.name + " is a Mage."); x.dispStats();}
+
+
+
+        }
+
+    }
 }
