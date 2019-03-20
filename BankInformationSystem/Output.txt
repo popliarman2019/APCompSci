@@ -1,0 +1,6 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57098:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Bank Information System/out/production/Bank Information System" Main
+Hello there valued customer. Please enter which function you would like to complete (create savings account, create checking account, or see balances)
+create savings account
+
+Process finished with exit code 0
+// I am having some problems with this
