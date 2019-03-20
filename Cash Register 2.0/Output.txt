@@ -1,0 +1,3 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57205:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/Cash Register 2.0/out/production/Cash Register 2.0" Main
+1001
+3000 units of Apples, are priced at 3.56, and are in our fruit department.
