@@ -1,0 +1,23 @@
+Information:java: Errors occurred while compiling module 'Starship'
+Information:javac 10.0.2 was used to compile java sources
+Information:4/2/19, 7:24 PM - Compilation completed with 16 errors and 0 warnings in 2 s 828 ms
+/Users/armanpopli/IdeaProjects/Starship/src/Cruiser.java
+Error:(5, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(6, 29) java: incompatible types: possible lossy conversion from double to int
+Error:(7, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(8, 27) java: incompatible types: possible lossy conversion from double to int
+/Users/armanpopli/IdeaProjects/Starship/src/Escort.java
+Error:(5, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(6, 29) java: incompatible types: possible lossy conversion from double to int
+Error:(7, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(8, 27) java: incompatible types: possible lossy conversion from double to int
+/Users/armanpopli/IdeaProjects/Starship/src/Frigate.java
+Error:(6, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(7, 29) java: incompatible types: possible lossy conversion from double to int
+Error:(8, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(9, 27) java: incompatible types: possible lossy conversion from double to int
+/Users/armanpopli/IdeaProjects/Starship/src/Battleship.java
+Error:(5, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(6, 29) java: incompatible types: possible lossy conversion from double to int
+Error:(7, 27) java: incompatible types: possible lossy conversion from double to int
+Error:(8, 27) java: incompatible types: possible lossy conversion from double to int
